@@ -1,0 +1,257 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1440px;
+    margin: auto;
+    justify-content: space-between;
+   margin-left: 120px;
+}
+.navbarr{
+    justify-content: space-between;
+    list-style: none;
+    display: flex;
+    margin: auto;
+}
+.navbar{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-right: auto;
+    margin-left: 110px;
+    margin-top: 40px;
+    gap: 40px;
+}
+.navbar__img{
+    width: 102px;
+    height: 88px;
+   margin-left: 70px;  
+}
+.group{
+    width: 40px;
+    height: 40px;
+    margin-top: 30px;
+}
+.doktype{
+    margin-top: 20px;
+}
+.navbar__text{
+    font-family: Commissioner;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22.01px;
+    margin-top: 40px;
+    margin-left: 2px;
+}
+.navbar__title{
+    margin-right: auto;
+    display: flex;
+}
+.text{
+    width: 664px;
+    height: 118px;
+    font-family: Commissioner;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 58.7px;
+    text-align: left;
+   margin-top: 156px;
+}
+.title{
+    width: 532px;
+    height: 116px;
+    font-family: Commissioner;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.35px;
+    text-align: left;
+    margin-top: 44px;
+}
+.groud{
+    width: 244px;
+    height: 64px;
+    border-radius: 30px;
+    background-color: #FAE01A;
+    border: none;
+    margin-top: 44px;
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+}
+.card2{
+    background-image: url(/Vector.png);
+}
+.card__one{
+    width: 459px;
+    height: 203px;
+    font-family: Commissioner;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.35px;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: -40px;
+    
+}
+.modal{
+    margin-top: 179px;
+    background: #FFF7BE;
+    width: 440px;
+    height: 204px;
+    border-radius: 30px;
+    margin-left: 200px;
+}
+.modal__title{
+    display: flex;
+}
+.modal__img{
+    margin-top: 133px;
+    margin-right: 120px;
+}
+.intex{
+    margin-top: 155px;
+    display: flex;
+    justify-content: space-between;
+}
+.intex__text{
+    width: 458px;
+    height: 174px;   
+    font-family: Commissioner;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.35px;
+    text-align: left;
+    margin-right: 250px;
+    margin-top: 15px;
+    margin-left: -30px;
+}
+.kids{
+    margin-left: -40%;
+    margin-top: -30px;
+}
+.intex__title{
+    width: 440px;
+    height: 172px;
+    border-radius: 30px;
+    margin-right: 250px;
+    margin-top: 85px;
+    background-color: #FFF7BE;
+}
+.frame{
+    margin-top: 107px;
+    justify-content: space-between;
+    margin-left: 20%;
+    display: flex;
+    margin-right: 20%;
+}
+.framee{
+    margin-left: 10%;
+    display: flex;
+    margin-right: 10%;
+    margin-top: 101px;
+}
+.frame__img{
+    width: 120px;
+    height: 120px;
+}
+.frame__img2{
+    margin-top: -10%;
+}
+.frame__img3{
+    margin: auto;
+}
+.frame3{
+    margin-left: 45%;
+}
+.frame__text{
+    width: 140px;
+    height: 58px; 
+    font-family: Commissioner;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.35px;
+    text-align: center;
+}
+.frame__title{
+    font-family: Commissioner;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.35px;
+    text-align: left;
+}
+.frame__title2{
+    width: 373px;
+    height: 58px;
+    font-family: Commissioner;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.35px;
+    text-align: center;  
+}
+.complex{
+    margin-top: 150px;
+    justify-content: space-between;
+    gap: 20px;
+}
+.complex__text{
+    font-family: Commissioner;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 58.7px;
+    text-align: left;
+    text-align: center;
+}
+.complex__title{
+    gap: 20px;
+    align-items: center;
+    margin: auto; 
+     margin-top: 60px;
+}
+.complex__img{
+    margin-left: 20px;
+}
+.complex2{
+    margin-top: 150px;
+}
+.complex__text2{
+    font-family: Commissioner;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 58.7px;
+    text-align: left;
+    text-align: center;
+}
+.produkt2{
+    display: flex;
+}
+.produkt{
+    width: 387px;
+    height: 284px;
+    border-color: #018FA3;
+    border: 4px solid #018FA3;
+    border-radius: 30px;
+    justify-content: space-between;
+}
+.produkt__text{
+    display: flex;
+    margin-top: 36px;
+    margin-left: 35px;
+}
+.produkt__text2{
+    margin-top: 32px;
+    margin-left: 20px;
+}
+.produkt__title{
+    width: 327px;
+    height: 120px;
+    font-family: Commissioner;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24.46px;
+    text-align: left;
+    margin-top: 12px;
+    margin-left: 36px;
+}
